@@ -1,5 +1,3 @@
-# SpikeHSINet
-spiking neural network for hyperspectral image classification
 
 
 # SpikeHSINet
